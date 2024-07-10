@@ -16,4 +16,4 @@ This Python program reverses a given string.
 ## Example
 
 Enter the string: hello
-olleh
+Output: olleh
